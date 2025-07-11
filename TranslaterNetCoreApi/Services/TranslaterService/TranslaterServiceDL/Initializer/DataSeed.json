@@ -1,0 +1,1212 @@
+{
+  "Languages": [
+    "English",
+    "Russian",
+    "French",
+    "German",
+    "Italian"
+  ],
+
+  "Keywords": [
+    {
+      "Value": "ui_Shield",
+      "Translations": {
+        "English": "EN_Shield",
+        "Russian": "RU_Shield",
+        "French": "FR_Shield",
+        "German": "DE_Shield",
+        "Italian": "IT_Shield"
+      }
+    },
+    {
+      "Value": "ui_Data",
+      "Translations": {
+        "English": "EN_Data",
+        "Russian": "RU_Data",
+        "French": "FR_Data",
+        "German": "DE_Data",
+        "Italian": "IT_Data"
+      }
+    },
+    {
+      "Value": "ui_Reload",
+      "Translations": {
+        "English": "EN_Reload",
+        "Russian": "RU_Reload",
+        "French": "FR_Reload",
+        "German": "DE_Reload",
+        "Italian": "IT_Reload"
+      }
+    },
+    {
+      "Value": "ui_Update",
+      "Translations": {
+        "English": "EN_Update",
+        "Russian": "RU_Update",
+        "French": "FR_Update",
+        "German": "DE_Update",
+        "Italian": "IT_Update"
+      }
+    },
+    {
+      "Value": "ui_Account",
+      "Translations": {
+        "English": "EN_Account",
+        "Russian": "RU_Account",
+        "French": "FR_Account",
+        "German": "DE_Account",
+        "Italian": "IT_Account"
+      }
+    },
+    {
+      "Value": "ui_Crouch",
+      "Translations": {
+        "English": "EN_Crouch",
+        "Russian": "RU_Crouch",
+        "French": "FR_Crouch",
+        "German": "DE_Crouch",
+        "Italian": "IT_Crouch"
+      }
+    },
+    {
+      "Value": "ui_Search",
+      "Translations": {
+        "English": "EN_Search",
+        "Russian": "RU_Search",
+        "French": "FR_Search",
+        "German": "DE_Search",
+        "Italian": "IT_Search"
+      }
+    },
+    {
+      "Value": "ui_Preferences",
+      "Translations": {
+        "English": "EN_Preferences",
+        "Russian": "RU_Preferences",
+        "French": "FR_Preferences",
+        "German": "DE_Preferences",
+        "Italian": "IT_Preferences"
+      }
+    },
+    {
+      "Value": "ui_Downgrade",
+      "Translations": {
+        "English": "EN_Downgrade",
+        "Russian": "RU_Downgrade",
+        "French": "FR_Downgrade",
+        "German": "DE_Downgrade",
+        "Italian": "IT_Downgrade"
+      }
+    },
+    {
+      "Value": "ui_Volume",
+      "Translations": {
+        "English": "EN_Volume",
+        "Russian": "RU_Volume",
+        "French": "FR_Volume",
+        "German": "DE_Volume",
+        "Italian": "IT_Volume"
+      }
+    },
+    {
+      "Value": "ui_Report",
+      "Translations": {
+        "English": "EN_Report",
+        "Russian": "RU_Report",
+        "French": "FR_Report",
+        "German": "DE_Report",
+        "Italian": "IT_Report"
+      }
+    },
+    {
+      "Value": "ui_Map",
+      "Translations": {
+        "English": "EN_Map",
+        "Russian": "RU_Map",
+        "French": "FR_Map",
+        "German": "DE_Map",
+        "Italian": "IT_Map"
+      }
+    },
+    {
+      "Value": "ui_Kick",
+      "Translations": {
+        "English": "EN_Kick",
+        "Russian": "RU_Kick",
+        "French": "FR_Kick",
+        "German": "DE_Kick",
+        "Italian": "IT_Kick"
+      }
+    },
+    {
+      "Value": "ui_Sync",
+      "Translations": {
+        "English": "EN_Sync",
+        "Russian": "RU_Sync",
+        "French": "FR_Sync",
+        "German": "DE_Sync",
+        "Italian": "IT_Sync"
+      }
+    },
+    {
+      "Value": "ui_Download",
+      "Translations": {
+        "English": "EN_Download",
+        "Russian": "RU_Download",
+        "French": "FR_Download",
+        "German": "DE_Download",
+        "Italian": "IT_Download"
+      }
+    },
+    {
+      "Value": "ui_View",
+      "Translations": {
+        "English": "EN_View",
+        "Russian": "RU_View",
+        "French": "FR_View",
+        "German": "DE_View",
+        "Italian": "IT_View"
+      }
+    },
+    {
+      "Value": "ui_Help",
+      "Translations": {
+        "English": "EN_Help",
+        "Russian": "RU_Help",
+        "French": "FR_Help",
+        "German": "DE_Help",
+        "Italian": "IT_Help"
+      }
+    },
+    {
+      "Value": "ui_History",
+      "Translations": {
+        "English": "EN_History",
+        "Russian": "RU_History",
+        "French": "FR_History",
+        "German": "DE_History",
+        "Italian": "IT_History"
+      }
+    },
+    {
+      "Value": "ui_Unlock",
+      "Translations": {
+        "English": "EN_Unlock",
+        "Russian": "RU_Unlock",
+        "French": "FR_Unlock",
+        "German": "DE_Unlock",
+        "Italian": "IT_Unlock"
+      }
+    },
+    {
+      "Value": "ui_Output",
+      "Translations": {
+        "English": "EN_Output",
+        "Russian": "RU_Output",
+        "French": "FR_Output",
+        "German": "DE_Output",
+        "Italian": "IT_Output"
+      }
+    },
+    {
+      "Value": "ui_Launch",
+      "Translations": {
+        "English": "EN_Launch",
+        "Russian": "RU_Launch",
+        "French": "FR_Launch",
+        "German": "DE_Launch",
+        "Italian": "IT_Launch"
+      }
+    },
+    {
+      "Value": "ui_Invite",
+      "Translations": {
+        "English": "EN_Invite",
+        "Russian": "RU_Invite",
+        "French": "FR_Invite",
+        "German": "DE_Invite",
+        "Italian": "IT_Invite"
+      }
+    },
+    {
+      "Value": "ui_Stats",
+      "Translations": {
+        "English": "EN_Stats",
+        "Russian": "RU_Stats",
+        "French": "FR_Stats",
+        "German": "DE_Stats",
+        "Italian": "IT_Stats"
+      }
+    },
+    {
+      "Value": "ui_Move",
+      "Translations": {
+        "English": "EN_Move",
+        "Russian": "RU_Move",
+        "French": "FR_Move",
+        "German": "DE_Move",
+        "Italian": "IT_Move"
+      }
+    },
+    {
+      "Value": "ui_Load",
+      "Translations": {
+        "English": "EN_Load",
+        "Russian": "RU_Load",
+        "French": "FR_Load",
+        "German": "DE_Load",
+        "Italian": "IT_Load"
+      }
+    },
+    {
+      "Value": "ui_Contrast",
+      "Translations": {
+        "English": "EN_Contrast",
+        "Russian": "RU_Contrast",
+        "French": "FR_Contrast",
+        "German": "DE_Contrast",
+        "Italian": "IT_Contrast"
+      }
+    },
+    {
+      "Value": "ui_Tools",
+      "Translations": {
+        "English": "EN_Tools",
+        "Russian": "RU_Tools",
+        "French": "FR_Tools",
+        "German": "DE_Tools",
+        "Italian": "IT_Tools"
+      }
+    },
+    {
+      "Value": "ui_Health",
+      "Translations": {
+        "English": "EN_Health",
+        "Russian": "RU_Health",
+        "French": "FR_Health",
+        "German": "DE_Health",
+        "Italian": "IT_Health"
+      }
+    },
+    {
+      "Value": "ui_Control",
+      "Translations": {
+        "English": "EN_Control",
+        "Russian": "RU_Control",
+        "French": "FR_Control",
+        "German": "DE_Control",
+        "Italian": "IT_Control"
+      }
+    },
+    {
+      "Value": "ui_Delete",
+      "Translations": {
+        "English": "EN_Delete",
+        "Russian": "RU_Delete",
+        "French": "FR_Delete",
+        "German": "DE_Delete",
+        "Italian": "IT_Delete"
+      }
+    },
+    {
+      "Value": "ui_Level",
+      "Translations": {
+        "English": "EN_Level",
+        "Russian": "RU_Level",
+        "French": "FR_Level",
+        "German": "DE_Level",
+        "Italian": "IT_Level"
+      }
+    },
+    {
+      "Value": "ui_Stop",
+      "Translations": {
+        "English": "EN_Stop",
+        "Russian": "RU_Stop",
+        "French": "FR_Stop",
+        "German": "DE_Stop",
+        "Italian": "IT_Stop"
+      }
+    },
+    {
+      "Value": "ui_Sleep",
+      "Translations": {
+        "English": "EN_Sleep",
+        "Russian": "RU_Sleep",
+        "French": "FR_Sleep",
+        "German": "DE_Sleep",
+        "Italian": "IT_Sleep"
+      }
+    },
+    {
+      "Value": "ui_Remove",
+      "Translations": {
+        "English": "EN_Remove",
+        "Russian": "RU_Remove",
+        "French": "FR_Remove",
+        "German": "DE_Remove",
+        "Italian": "IT_Remove"
+      }
+    },
+    {
+      "Value": "ui_Attack",
+      "Translations": {
+        "English": "EN_Attack",
+        "Russian": "RU_Attack",
+        "French": "FR_Attack",
+        "German": "DE_Attack",
+        "Italian": "IT_Attack"
+      }
+    },
+    {
+      "Value": "ui_Generate",
+      "Translations": {
+        "English": "EN_Generate",
+        "Russian": "RU_Generate",
+        "French": "FR_Generate",
+        "German": "DE_Generate",
+        "Italian": "IT_Generate"
+      }
+    },
+    {
+      "Value": "ui_System",
+      "Translations": {
+        "English": "EN_System",
+        "Russian": "RU_System",
+        "French": "FR_System",
+        "German": "DE_System",
+        "Italian": "IT_System"
+      }
+    },
+    {
+      "Value": "ui_Enable",
+      "Translations": {
+        "English": "EN_Enable",
+        "Russian": "RU_Enable",
+        "French": "FR_Enable",
+        "German": "DE_Enable",
+        "Italian": "IT_Enable"
+      }
+    },
+    {
+      "Value": "ui_Feedback",
+      "Translations": {
+        "English": "EN_Feedback",
+        "Russian": "RU_Feedback",
+        "French": "FR_Feedback",
+        "German": "DE_Feedback",
+        "Italian": "IT_Feedback"
+      }
+    },
+    {
+      "Value": "ui_Sprint",
+      "Translations": {
+        "English": "EN_Sprint",
+        "Russian": "RU_Sprint",
+        "French": "FR_Sprint",
+        "German": "DE_Sprint",
+        "Italian": "IT_Sprint"
+      }
+    },
+    {
+      "Value": "ui_Connect",
+      "Translations": {
+        "English": "EN_Connect",
+        "Russian": "RU_Connect",
+        "French": "FR_Connect",
+        "German": "DE_Connect",
+        "Italian": "IT_Connect"
+      }
+    },
+    {
+      "Value": "ui_Power",
+      "Translations": {
+        "English": "EN_Power",
+        "Russian": "RU_Power",
+        "French": "FR_Power",
+        "German": "DE_Power",
+        "Italian": "IT_Power"
+      }
+    },
+    {
+      "Value": "ui_Score",
+      "Translations": {
+        "English": "EN_Score",
+        "Russian": "RU_Score",
+        "French": "FR_Score",
+        "German": "DE_Score",
+        "Italian": "IT_Score"
+      }
+    },
+    {
+      "Value": "ui_Details",
+      "Translations": {
+        "English": "EN_Details",
+        "Russian": "RU_Details",
+        "French": "FR_Details",
+        "German": "DE_Details",
+        "Italian": "IT_Details"
+      }
+    },
+    {
+      "Value": "ui_Unmute",
+      "Translations": {
+        "English": "EN_Unmute",
+        "Russian": "RU_Unmute",
+        "French": "FR_Unmute",
+        "German": "DE_Unmute",
+        "Italian": "IT_Unmute"
+      }
+    },
+    {
+      "Value": "ui_Continue",
+      "Translations": {
+        "English": "EN_Continue",
+        "Russian": "RU_Continue",
+        "French": "FR_Continue",
+        "German": "DE_Continue",
+        "Italian": "IT_Continue"
+      }
+    },
+    {
+      "Value": "ui_Theme",
+      "Translations": {
+        "English": "EN_Theme",
+        "Russian": "RU_Theme",
+        "French": "FR_Theme",
+        "German": "DE_Theme",
+        "Italian": "IT_Theme"
+      }
+    },
+    {
+      "Value": "ui_Inventory",
+      "Translations": {
+        "English": "EN_Inventory",
+        "Russian": "RU_Inventory",
+        "French": "FR_Inventory",
+        "German": "DE_Inventory",
+        "Italian": "IT_Inventory"
+      }
+    },
+    {
+      "Value": "ui_Build",
+      "Translations": {
+        "English": "EN_Build",
+        "Russian": "RU_Build",
+        "French": "FR_Build",
+        "German": "DE_Build",
+        "Italian": "IT_Build"
+      }
+    },
+    {
+      "Value": "ui_Equip",
+      "Translations": {
+        "English": "EN_Equip",
+        "Russian": "RU_Equip",
+        "French": "FR_Equip",
+        "German": "DE_Equip",
+        "Italian": "IT_Equip"
+      }
+    },
+    {
+      "Value": "ui_ZoomOut",
+      "Translations": {
+        "English": "EN_ZoomOut",
+        "Russian": "RU_ZoomOut",
+        "French": "FR_ZoomOut",
+        "German": "DE_ZoomOut",
+        "Italian": "IT_ZoomOut"
+      }
+    },
+    {
+      "Value": "ui_Use",
+      "Translations": {
+        "English": "EN_Use",
+        "Russian": "RU_Use",
+        "French": "FR_Use",
+        "German": "DE_Use",
+        "Italian": "IT_Use"
+      }
+    },
+    {
+      "Value": "ui_Restart",
+      "Translations": {
+        "English": "EN_Restart",
+        "Russian": "RU_Restart",
+        "French": "FR_Restart",
+        "German": "DE_Restart",
+        "Italian": "IT_Restart"
+      }
+    },
+    {
+      "Value": "ui_Security",
+      "Translations": {
+        "English": "EN_Security",
+        "Russian": "RU_Security",
+        "French": "FR_Security",
+        "German": "DE_Security",
+        "Italian": "IT_Security"
+      }
+    },
+    {
+      "Value": "ui_Helpdesk",
+      "Translations": {
+        "English": "EN_Helpdesk",
+        "Russian": "RU_Helpdesk",
+        "French": "FR_Helpdesk",
+        "German": "DE_Helpdesk",
+        "Italian": "IT_Helpdesk"
+      }
+    },
+    {
+      "Value": "ui_Mana",
+      "Translations": {
+        "English": "EN_Mana",
+        "Russian": "RU_Mana",
+        "French": "FR_Mana",
+        "German": "DE_Mana",
+        "Italian": "IT_Mana"
+      }
+    },
+    {
+      "Value": "ui_Pause",
+      "Translations": {
+        "English": "EN_Pause",
+        "Russian": "RU_Pause",
+        "French": "FR_Pause",
+        "German": "DE_Pause",
+        "Italian": "IT_Pause"
+      }
+    },
+    {
+      "Value": "ui_Walk",
+      "Translations": {
+        "English": "EN_Walk",
+        "Russian": "RU_Walk",
+        "French": "FR_Walk",
+        "German": "DE_Walk",
+        "Italian": "IT_Walk"
+      }
+    },
+    {
+      "Value": "ui_Next",
+      "Translations": {
+        "English": "EN_Next",
+        "Russian": "RU_Next",
+        "French": "FR_Next",
+        "German": "DE_Next",
+        "Italian": "IT_Next"
+      }
+    },
+    {
+      "Value": "ui_Link",
+      "Translations": {
+        "English": "EN_Link",
+        "Russian": "RU_Link",
+        "French": "FR_Link",
+        "German": "DE_Link",
+        "Italian": "IT_Link"
+      }
+    },
+    {
+      "Value": "ui_Ban",
+      "Translations": {
+        "English": "EN_Ban",
+        "Russian": "RU_Ban",
+        "French": "FR_Ban",
+        "German": "DE_Ban",
+        "Italian": "IT_Ban"
+      }
+    },
+    {
+      "Value": "ui_Disconnect",
+      "Translations": {
+        "English": "EN_Disconnect",
+        "Russian": "RU_Disconnect",
+        "French": "FR_Disconnect",
+        "German": "DE_Disconnect",
+        "Italian": "IT_Disconnect"
+      }
+    },
+    {
+      "Value": "ui_Upgrade",
+      "Translations": {
+        "English": "EN_Upgrade",
+        "Russian": "RU_Upgrade",
+        "French": "FR_Upgrade",
+        "German": "DE_Upgrade",
+        "Italian": "IT_Upgrade"
+      }
+    },
+    {
+      "Value": "ui_Play",
+      "Translations": {
+        "English": "EN_Play",
+        "Russian": "RU_Play",
+        "French": "FR_Play",
+        "German": "DE_Play",
+        "Italian": "IT_Play"
+      }
+    },
+    {
+      "Value": "ui_Edit",
+      "Translations": {
+        "English": "EN_Edit",
+        "Russian": "RU_Edit",
+        "French": "FR_Edit",
+        "German": "DE_Edit",
+        "Italian": "IT_Edit"
+      }
+    },
+    {
+      "Value": "ui_Refresh",
+      "Translations": {
+        "English": "EN_Refresh",
+        "Russian": "RU_Refresh",
+        "French": "FR_Refresh",
+        "German": "DE_Refresh",
+        "Italian": "IT_Refresh"
+      }
+    },
+    {
+      "Value": "ui_Lock",
+      "Translations": {
+        "English": "EN_Lock",
+        "Russian": "RU_Lock",
+        "French": "FR_Lock",
+        "German": "DE_Lock",
+        "Italian": "IT_Lock"
+      }
+    },
+    {
+      "Value": "ui_Exit",
+      "Translations": {
+        "English": "EN_Exit",
+        "Russian": "RU_Exit",
+        "French": "FR_Exit",
+        "German": "DE_Exit",
+        "Italian": "IT_Exit"
+      }
+    },
+    {
+      "Value": "ui_Info",
+      "Translations": {
+        "English": "EN_Info",
+        "Russian": "RU_Info",
+        "French": "FR_Info",
+        "German": "DE_Info",
+        "Italian": "IT_Info"
+      }
+    },
+    {
+      "Value": "ui_Sort",
+      "Translations": {
+        "English": "EN_Sort",
+        "Russian": "RU_Sort",
+        "French": "FR_Sort",
+        "German": "DE_Sort",
+        "Italian": "IT_Sort"
+      }
+    },
+    {
+      "Value": "ui_Analyze",
+      "Translations": {
+        "English": "EN_Analyze",
+        "Russian": "RU_Analyze",
+        "French": "FR_Analyze",
+        "German": "DE_Analyze",
+        "Italian": "IT_Analyze"
+      }
+    },
+    {
+      "Value": "ui_Destroy",
+      "Translations": {
+        "English": "EN_Destroy",
+        "Russian": "RU_Destroy",
+        "French": "FR_Destroy",
+        "German": "DE_Destroy",
+        "Italian": "IT_Destroy"
+      }
+    },
+    {
+      "Value": "ui_Settings",
+      "Translations": {
+        "English": "EN_Settings",
+        "Russian": "RU_Settings",
+        "French": "FR_Settings",
+        "German": "DE_Settings",
+        "Italian": "IT_Settings"
+      }
+    },
+    {
+      "Value": "ui_Upload",
+      "Translations": {
+        "English": "EN_Upload",
+        "Russian": "RU_Upload",
+        "French": "FR_Upload",
+        "German": "DE_Upload",
+        "Italian": "IT_Upload"
+      }
+    },
+    {
+      "Value": "ui_Cancel",
+      "Translations": {
+        "English": "EN_Cancel",
+        "Russian": "RU_Cancel",
+        "French": "FR_Cancel",
+        "German": "DE_Cancel",
+        "Italian": "IT_Cancel"
+      }
+    },
+    {
+      "Value": "ui_Confirm",
+      "Translations": {
+        "English": "EN_Confirm",
+        "Russian": "RU_Confirm",
+        "French": "FR_Confirm",
+        "German": "DE_Confirm",
+        "Italian": "IT_Confirm"
+      }
+    },
+    {
+      "Value": "ui_First",
+      "Translations": {
+        "English": "EN_First",
+        "Russian": "RU_First",
+        "French": "FR_First",
+        "German": "DE_First",
+        "Italian": "IT_First"
+      }
+    },
+    {
+      "Value": "ui_Disable",
+      "Translations": {
+        "English": "EN_Disable",
+        "Russian": "RU_Disable",
+        "French": "FR_Disable",
+        "German": "DE_Disable",
+        "Italian": "IT_Disable"
+      }
+    },
+    {
+      "Value": "ui_Apply",
+      "Translations": {
+        "English": "EN_Apply",
+        "Russian": "RU_Apply",
+        "French": "FR_Apply",
+        "German": "DE_Apply",
+        "Italian": "IT_Apply"
+      }
+    },
+    {
+      "Value": "ui_Message",
+      "Translations": {
+        "English": "EN_Message",
+        "Russian": "RU_Message",
+        "French": "FR_Message",
+        "German": "DE_Message",
+        "Italian": "IT_Message"
+      }
+    },
+    {
+      "Value": "ui_ZoomIn",
+      "Translations": {
+        "English": "EN_ZoomIn",
+        "Russian": "RU_ZoomIn",
+        "French": "FR_ZoomIn",
+        "German": "DE_ZoomIn",
+        "Italian": "IT_ZoomIn"
+      }
+    },
+    {
+      "Value": "ui_Home",
+      "Translations": {
+        "English": "EN_Home",
+        "Russian": "RU_Home",
+        "French": "FR_Home",
+        "German": "DE_Home",
+        "Italian": "IT_Home"
+      }
+    },
+    {
+      "Value": "ui_Profile",
+      "Translations": {
+        "English": "EN_Profile",
+        "Russian": "RU_Profile",
+        "French": "FR_Profile",
+        "German": "DE_Profile",
+        "Italian": "IT_Profile"
+      }
+    },
+    {
+      "Value": "ui_Brightness",
+      "Translations": {
+        "English": "EN_Brightness",
+        "Russian": "RU_Brightness",
+        "French": "FR_Brightness",
+        "German": "DE_Brightness",
+        "Italian": "IT_Brightness"
+      }
+    },
+    {
+      "Value": "ui_Record",
+      "Translations": {
+        "English": "EN_Record",
+        "Russian": "RU_Record",
+        "French": "FR_Record",
+        "German": "DE_Record",
+        "Italian": "IT_Record"
+      }
+    },
+    {
+      "Value": "ui_Resume",
+      "Translations": {
+        "English": "EN_Resume",
+        "Russian": "RU_Resume",
+        "French": "FR_Resume",
+        "German": "DE_Resume",
+        "Italian": "IT_Resume"
+      }
+    },
+    {
+      "Value": "ui_Logs",
+      "Translations": {
+        "English": "EN_Logs",
+        "Russian": "RU_Logs",
+        "French": "FR_Logs",
+        "German": "DE_Logs",
+        "Italian": "IT_Logs"
+      }
+    },
+    {
+      "Value": "ui_Hide",
+      "Translations": {
+        "English": "EN_Hide",
+        "Russian": "RU_Hide",
+        "French": "FR_Hide",
+        "German": "DE_Hide",
+        "Italian": "IT_Hide"
+      }
+    },
+    {
+      "Value": "ui_Filter",
+      "Translations": {
+        "English": "EN_Filter",
+        "Russian": "RU_Filter",
+        "French": "FR_Filter",
+        "German": "DE_Filter",
+        "Italian": "IT_Filter"
+      }
+    },
+    {
+      "Value": "ui_Dashboard",
+      "Translations": {
+        "English": "EN_Dashboard",
+        "Russian": "RU_Dashboard",
+        "French": "FR_Dashboard",
+        "German": "DE_Dashboard",
+        "Italian": "IT_Dashboard"
+      }
+    },
+    {
+      "Value": "ui_Language",
+      "Translations": {
+        "English": "EN_Language",
+        "Russian": "RU_Language",
+        "French": "FR_Language",
+        "German": "DE_Language",
+        "Italian": "IT_Language"
+      }
+    },
+    {
+      "Value": "ui_Chat",
+      "Translations": {
+        "English": "EN_Chat",
+        "Russian": "RU_Chat",
+        "French": "FR_Chat",
+        "German": "DE_Chat",
+        "Italian": "IT_Chat"
+      }
+    },
+    {
+      "Value": "ui_Unequip",
+      "Translations": {
+        "English": "EN_Unequip",
+        "Russian": "RU_Unequip",
+        "French": "FR_Unequip",
+        "German": "DE_Unequip",
+        "Italian": "IT_Unequip"
+      }
+    },
+    {
+      "Value": "ui_Craft",
+      "Translations": {
+        "English": "EN_Craft",
+        "Russian": "RU_Craft",
+        "French": "FR_Craft",
+        "German": "DE_Craft",
+        "Italian": "IT_Craft"
+      }
+    },
+    {
+      "Value": "ui_Last",
+      "Translations": {
+        "English": "EN_Last",
+        "Russian": "RU_Last",
+        "French": "FR_Last",
+        "German": "DE_Last",
+        "Italian": "IT_Last"
+      }
+    },
+    {
+      "Value": "ui_Save",
+      "Translations": {
+        "English": "EN_Save",
+        "Russian": "RU_Save",
+        "French": "FR_Save",
+        "German": "DE_Save",
+        "Italian": "IT_Save"
+      }
+    },
+    {
+      "Value": "ui_Jump",
+      "Translations": {
+        "English": "EN_Jump",
+        "Russian": "RU_Jump",
+        "French": "FR_Jump",
+        "German": "DE_Jump",
+        "Italian": "IT_Jump"
+      }
+    },
+    {
+      "Value": "ui_Run",
+      "Translations": {
+        "English": "EN_Run",
+        "Russian": "RU_Run",
+        "French": "FR_Run",
+        "German": "DE_Run",
+        "Italian": "IT_Run"
+      }
+    },
+    {
+      "Value": "ui_Submit",
+      "Translations": {
+        "English": "EN_Submit",
+        "Russian": "RU_Submit",
+        "French": "FR_Submit",
+        "German": "DE_Submit",
+        "Italian": "IT_Submit"
+      }
+    },
+    {
+      "Value": "ui_Panel",
+      "Translations": {
+        "English": "EN_Panel",
+        "Russian": "RU_Panel",
+        "French": "FR_Panel",
+        "German": "DE_Panel",
+        "Italian": "IT_Panel"
+      }
+    },
+    {
+      "Value": "ui_Open",
+      "Translations": {
+        "English": "EN_Open",
+        "Russian": "RU_Open",
+        "French": "FR_Open",
+        "German": "DE_Open",
+        "Italian": "IT_Open"
+      }
+    },
+    {
+      "Value": "ui_Options",
+      "Translations": {
+        "English": "EN_Options",
+        "Russian": "RU_Options",
+        "French": "FR_Options",
+        "German": "DE_Options",
+        "Italian": "IT_Options"
+      }
+    },
+    {
+      "Value": "ui_Input",
+      "Translations": {
+        "English": "EN_Input",
+        "Russian": "RU_Input",
+        "French": "FR_Input",
+        "German": "DE_Input",
+        "Italian": "IT_Input"
+      }
+    },
+    {
+      "Value": "ui_Defend",
+      "Translations": {
+        "English": "EN_Defend",
+        "Russian": "RU_Defend",
+        "French": "FR_Defend",
+        "German": "DE_Defend",
+        "Italian": "IT_Defend"
+      }
+    },
+    {
+      "Value": "ui_Skill",
+      "Translations": {
+        "English": "EN_Skill",
+        "Russian": "RU_Skill",
+        "French": "FR_Skill",
+        "German": "DE_Skill",
+        "Italian": "IT_Skill"
+      }
+    },
+    {
+      "Value": "ui_Zoom",
+      "Translations": {
+        "English": "EN_Zoom",
+        "Russian": "RU_Zoom",
+        "French": "FR_Zoom",
+        "German": "DE_Zoom",
+        "Italian": "IT_Zoom"
+      }
+    },
+    {
+      "Value": "ui_Show",
+      "Translations": {
+        "English": "EN_Show",
+        "Russian": "RU_Show",
+        "French": "FR_Show",
+        "German": "DE_Show",
+        "Italian": "IT_Show"
+      }
+    },
+    {
+      "Value": "ui_Close",
+      "Translations": {
+        "English": "EN_Close",
+        "Russian": "RU_Close",
+        "French": "FR_Close",
+        "German": "DE_Close",
+        "Italian": "IT_Close"
+      }
+    },
+    {
+      "Value": "ui_Install",
+      "Translations": {
+        "English": "EN_Install",
+        "Russian": "RU_Install",
+        "French": "FR_Install",
+        "German": "DE_Install",
+        "Italian": "IT_Install"
+      }
+    },
+    {
+      "Value": "ui_Mute",
+      "Translations": {
+        "English": "EN_Mute",
+        "Russian": "RU_Mute",
+        "French": "FR_Mute",
+        "German": "DE_Mute",
+        "Italian": "IT_Mute"
+      }
+    },
+    {
+      "Value": "ui_Terminal",
+      "Translations": {
+        "English": "EN_Terminal",
+        "Russian": "RU_Terminal",
+        "French": "FR_Terminal",
+        "German": "DE_Terminal",
+        "Italian": "IT_Terminal"
+      }
+    },
+    {
+      "Value": "ui_Previous",
+      "Translations": {
+        "English": "EN_Previous",
+        "Russian": "RU_Previous",
+        "French": "FR_Previous",
+        "German": "DE_Previous",
+        "Italian": "IT_Previous"
+      }
+    },
+    {
+      "Value": "ui_Back",
+      "Translations": {
+        "English": "EN_Back",
+        "Russian": "RU_Back",
+        "French": "FR_Back",
+        "German": "DE_Back",
+        "Italian": "IT_Back"
+      }
+    },
+    {
+      "Value": "ui_Shutdown",
+      "Translations": {
+        "English": "EN_Shutdown",
+        "Russian": "RU_Shutdown",
+        "French": "FR_Shutdown",
+        "German": "DE_Shutdown",
+        "Italian": "IT_Shutdown"
+      }
+    },
+    {
+      "Value": "ui_Start",
+      "Translations": {
+        "English": "EN_Start",
+        "Russian": "RU_Start",
+        "French": "FR_Start",
+        "German": "DE_Start",
+        "Italian": "IT_Start"
+      }
+    },
+    {
+      "Value": "ui_Forward",
+      "Translations": {
+        "English": "EN_Forward",
+        "Russian": "RU_Forward",
+        "French": "FR_Forward",
+        "German": "DE_Forward",
+        "Italian": "IT_Forward"
+      }
+    },
+    {
+      "Value": "ui_Privacy",
+      "Translations": {
+        "English": "EN_Privacy",
+        "Russian": "RU_Privacy",
+        "French": "FR_Privacy",
+        "German": "DE_Privacy",
+        "Italian": "IT_Privacy"
+      }
+    },
+    {
+      "Value": "ui_Support",
+      "Translations": {
+        "English": "EN_Support",
+        "Russian": "RU_Support",
+        "French": "FR_Support",
+        "German": "DE_Support",
+        "Italian": "IT_Support"
+      }
+    },
+    {
+      "Value": "ui_Console",
+      "Translations": {
+        "English": "EN_Console",
+        "Russian": "RU_Console",
+        "French": "FR_Console",
+        "German": "DE_Console",
+        "Italian": "IT_Console"
+      }
+    },
+    {
+      "Value": "ui_Retry",
+      "Translations": {
+        "English": "EN_Retry",
+        "Russian": "RU_Retry",
+        "French": "FR_Retry",
+        "German": "DE_Retry",
+        "Italian": "IT_Retry"
+      }
+    }
+  ]
+}

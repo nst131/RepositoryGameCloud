@@ -1,0 +1,74 @@
+version: '3.9'
+
+networks:
+  app-network:
+    driver: bridge
+
+services:
+  # PostgreSQL для AuthService
+  auth-db:
+    image: postgres:15
+    container_name: auth_postgres
+    environment:
+      POSTGRES_USER: auth_user
+      POSTGRES_PASSWORD: auth_pass
+      POSTGRES_DB: auth_db
+    ports:
+      - "5433:5432"
+    networks:
+      - app-network
+
+  # PostgreSQL для TranslaterService
+  translater-db:
+    image: postgres:15
+    container_name: translater_postgres
+    environment:
+      POSTGRES_USER: translater_user
+      POSTGRES_PASSWORD: translater_pass
+      POSTGRES_DB: translater_db
+    ports:
+      - "5434:5432"
+    networks:
+      - app-network
+
+  # AuthService
+  auth-service:
+    build:
+      context: ./TranslaterNetCoreApi/Services/AuthService
+      dockerfile: Dockerfile
+    container_name: auth_service
+    depends_on:
+      - auth-db
+    environment:
+      - Connection_String=Host=auth-db;Port=5432;Database=auth_db;Username=auth_user;Password=auth_pass
+    ports:
+      - "5001:8080"
+    networks:
+      - app-network
+
+  # TranslaterService
+  translater-service:
+    build:
+      context: ./TranslaterNetCoreApi/Services/TranslaterService
+      dockerfile: Dockerfile
+    container_name: translater_service
+    depends_on:
+      - translater-db
+    environment:
+      - Connection_String=Host=translater-db;Port=5432;Database=translater_db;Username=translater_user;Password=translater_pass
+      - DATASEED_PATH=/app/Initializer/DataSeed.json
+    ports:
+      - "5000:8080"
+    networks:
+      - app-network
+      
+  # ReactFrontened
+  frontend:
+    build:
+      context: ./TranslaterReact
+      dockerfile: Dockerfile
+    container_name: translater_frontend
+    ports:
+      - "3000:80"
+    networks:
+      - app-network
